@@ -1,0 +1,7 @@
+trash/
+.env
+env
+data/
+exports/
+faiker.drawio
+__pycache__/
